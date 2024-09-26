@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-image: url('assets/images/banner.jpg'); /* Add an attractive banner image */
+    background-size: cover;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

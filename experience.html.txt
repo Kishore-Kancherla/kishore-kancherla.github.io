@@ -38,9 +38,15 @@
 
     <!-- About Section -->
     <section class="container my-5">
-        <h2>About Me</h2>
-        <p>I am a Project Scientist-III with over nine years of experience in advanced materials research, specializing in the design and development of next-generation multi-functional composite materials, thermo-mechanical performance evaluation, nano-material synthesis, and additive manufacturing. I am actively involved in high-impact research projects and strive to drive innovation in materials science and engineering.</p>
-    </section>
+    <h2>Professional Experience</h2>
+    <div class="experience-item">
+        <h4>iMEMS Lab, IISc Bangalore</h4>
+        <p><strong>Position:</strong> Project Scientist - III (Apr 2023 – Present)</p>
+        <p><strong>Role:</strong> Coordinated multiple high-impact research projects...</p>
+        <!-- Add all experience details here -->
+    </div>
+</section>
+
 
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3">
