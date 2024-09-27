@@ -16,9 +16,9 @@ body {
 }
 
 .jumbotron {
-    background-image: url('../images/background.JPG'); /* Add an attractive banner image */
+    background-image: url('../images/banner.JPG'); /* Add an attractive banner image */
     background-size: cover;
-    /*color: #fff*/
+    /*color: #fff;*/
 }
 
 .navbar-brand {
