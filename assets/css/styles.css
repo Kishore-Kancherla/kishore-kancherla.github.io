@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url('../images/background.jpg'); /* Add an attractive banner image */
+    background-image: url('../images/background.JPG'); /* Add an attractive banner image */
     background-size: cover;
     color: #fff;
 }
@@ -20,7 +20,7 @@ footer {
 
 /* Apply the background image to the entire website */
 body {
-    background: url('../images/background.jpg') no-repeat center center fixed;
+    background: url('../images/background.JPG') no-repeat center center fixed;
     background-size: cover; /* Ensures the image covers the entire page */
 }
 
