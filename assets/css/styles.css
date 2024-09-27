@@ -20,13 +20,13 @@ footer {
 
 /* Apply the background image to the entire website */
 body {
-    background: url('https://via.placeholder.com/1920x1080') no-repeat center center fixed;
+    background: url('../images/background.jpg') no-repeat center center fixed;
     background-size: cover; /* Ensures the image covers the entire page */
 }
 
 /* Create a semi-transparent overlay effect */
 .overlay {
-    background-color: rgba(255, 255, 255, 0.8); /* Adjust color and transparency */
+    background-color: rgba(255, 255, 255, 1); /* Adjust color and transparency */
     position: absolute;
     top: 0;
     left: 0;
