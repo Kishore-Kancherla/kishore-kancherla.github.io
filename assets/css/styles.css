@@ -20,7 +20,7 @@ footer {
 
 /* Apply the background image to the entire website */
 body {
-    background: url('../images/background.jpg') no-repeat center center fixed;
+    background: url('https://via.placeholder.com/1920x1080') no-repeat center center fixed;
     background-size: cover; /* Ensures the image covers the entire page */
 }
 
