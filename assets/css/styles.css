@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url('assets/images/banner.jpg'); /* Add an attractive banner image */
+    background-image: url('../images/background.jpg'); /* Add an attractive banner image */
     background-size: cover;
     color: #fff;
 }
