@@ -34,6 +34,7 @@ footer {
     padding: 5px 0; /* Adjust padding to reduce height */
     font-size: 14px; /* Adjust font size if necessary */
     position: relative; /* Adjust positioning as needed */
+    bottom: 0;
 }
 
 footer p {
