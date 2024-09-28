@@ -33,8 +33,7 @@ footer {
     text-align: center; /* Center align text */
     padding: 5px 0; /* Adjust padding to reduce height */
     font-size: 14px; /* Adjust font size if necessary */
-    position: relative; /* Adjust positioning as needed */
-    bottom: 0;
+    position: fixed; /* Adjust positioning as needed */
 }
 
 footer p {
