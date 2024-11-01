@@ -45,7 +45,7 @@ footer {
     background-color: #333; /* Background color */
     color: #ffffff; /* Text color */
     text-align: center; /* Center align text */
-    padding: 1px 10; /* Adjust padding to reduce height */
+    padding: auto; /* Adjust padding to reduce height */
     font-size: 10px; /* Adjust font size if necessary */
     position: fixed;
     bottom: 0;
