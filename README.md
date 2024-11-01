@@ -1,1 +1,0 @@
-# kishore-kancherla.github.io
