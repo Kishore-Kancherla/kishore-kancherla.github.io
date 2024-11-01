@@ -45,7 +45,7 @@ body {
     background-color: #333; /* Background color */
     color: #ffffff; /* Text color */
     text-align: center; /* Center align text */
-    padding: auto; /* Adjust padding to reduce height */
+    padding: 1px 0; /* Adjust padding to reduce height */
     font-size: 10px; /* Adjust font size if necessary */
     position: fixed;
     bottom: 0;
