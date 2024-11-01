@@ -27,6 +27,20 @@ body {
     font-weight: bold;
 }
 
+.experience-image-container {
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    margin-top: 20px;
+}
+
+.experience-image {
+    width: 80%; /* Sets the width to 80% of the container */
+    height: auto; /* Maintains the aspect ratio */
+    max-width: 100%; /* Ensures it doesn't exceed the container's width */
+    border: 1px solid #ddd; /* Optional: adds a border around the image */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow */
+}
+}
 
 footer {
     background-color: #333; /* Background color */
