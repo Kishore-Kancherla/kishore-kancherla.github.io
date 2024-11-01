@@ -34,19 +34,18 @@ body {
 }
 
 .experience-image {
-    width: 80%; /* Sets the width to 80% of the container */
+    width: 100%; /* Sets the width to 80% of the container */
     height: auto; /* Maintains the aspect ratio */
     max-width: 100%; /* Ensures it doesn't exceed the container's width */
     border: 1px solid #ddd; /* Optional: adds a border around the image */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow */
-}
 }
 
 footer {
     background-color: #333; /* Background color */
     color: #ffffff; /* Text color */
     text-align: center; /* Center align text */
-    padding: 1px 0; /* Adjust padding to reduce height */
+    padding: 3px 0; /* Adjust padding to reduce height */
     font-size: 10px; /* Adjust font size if necessary */
     position: fixed;
     bottom: 0;
