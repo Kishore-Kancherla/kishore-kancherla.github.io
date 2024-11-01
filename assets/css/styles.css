@@ -27,19 +27,6 @@ body {
     font-weight: bold;
 }
 
-.about-section {
-    display: flex;
-    align-items: center;
-    gap: 20px; /* Adds space between the image and the text */
-}
-
-.profile-img {
-    width: 150px; /* Adjust the width to your preference */
-    height: auto;
-    border-radius: 50%; /* Makes the image circular */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
-}
-
 
 footer {
     background-color: #333; /* Background color */
