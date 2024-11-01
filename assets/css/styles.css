@@ -41,7 +41,7 @@ body {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow */
 }
 
-footer {
+.footer {
     background-color: #333; /* Background color */
     color: #ffffff; /* Text color */
     text-align: center; /* Center align text */
