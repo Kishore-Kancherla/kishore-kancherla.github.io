@@ -25,7 +25,7 @@ body {
 .header-profile-picture {
     width: auto; /* Allows the width to adjust automatically */
     height: 150px; /* Adjust the height as needed */
-    border-radius: 50%; /* Makes the image circular */
+    border-radius: 10%; /* Makes the image circular */
     opacity: 0.8; /* Sets the transparency of the image */
     margin-bottom: 10px; /* Adds space between the image and the text */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional: adds a shadow to the image */
