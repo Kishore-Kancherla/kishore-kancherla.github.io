@@ -38,6 +38,14 @@ body {
     }
 }
 
+/* Style for Social Media Icons */
+.btn i {
+    margin-right: 5px; /* Adds space between the icon and the text */
+    font-size: 1.2em; /* Adjusts the icon size */
+    vertical-align: middle;
+}
+
+
 .jumbotron {
     background-color: rgba(255, 255, 255, 0.2) !important;
     color: #000000 !important;
