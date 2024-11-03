@@ -58,6 +58,22 @@ body {
     font-weight: bold;
 }
 
+/* Center the button group */
+.button-group {
+    display: flex;
+    justify-content: center; /* Centers buttons horizontally */
+    flex-wrap: wrap; /* Allows buttons to wrap to the next line if needed */
+    gap: 10px; /* Adds space between the buttons */
+}
+
+/* Button styling for consistent appearance */
+.button-group .btn {
+    padding: 10px 20px; /* Adjust padding for button size */
+    font-size: 16px; /* Adjust font size */
+    border-radius: 8px; /* Optional: Adds rounded corners */
+}
+
+
 .experience-image-container {
     display: flex;
     justify-content: center; /* Centers the image horizontally */
