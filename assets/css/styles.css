@@ -20,7 +20,7 @@ nav .btn {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40px; /* Adjust size as needed */
+    width: auto; /* Adjust size as needed */
     height: 40px;
     padding: 0;
     border-radius: 50%; /* Makes it circular */
