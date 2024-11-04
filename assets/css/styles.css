@@ -18,9 +18,9 @@ body {
 /* Style for the Home icon button */
 nav .btn {
     display: flex;
-    align-items: right;
+    align-items: center;
     justify-content: center;
-    width: auto; /* Adjust size as needed */
+    width: 50px; /* Adjust size as needed */
     height: 40px;
     padding: 0;
     border-radius: 10%; /* Makes it circular */
