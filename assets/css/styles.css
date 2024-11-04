@@ -15,6 +15,25 @@ body {
     z-index: -1; /* Ensures the overlay is behind the content */
 }
 
+/* Style for the Home icon button */
+nav .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px; /* Adjust size as needed */
+    height: 40px;
+    padding: 0;
+    border-radius: 50%; /* Makes it circular */
+    font-size: 18px; /* Adjust icon size */
+    text-decoration: none;
+    color: #fff; /* White icon color */
+    background-color: #007bff; /* Background color */
+}
+
+nav .btn:hover {
+    background-color: #0056b3; /* Darken on hover */
+}
+
 .header-content {
     display: flex;
     flex-direction: column;
