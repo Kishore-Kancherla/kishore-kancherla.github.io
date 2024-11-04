@@ -18,7 +18,7 @@ body {
 /* Style for the Home icon button */
 nav .btn {
     display: flex;
-    align-items: center;
+    align-items: right;
     justify-content: center;
     width: auto; /* Adjust size as needed */
     height: 40px;
