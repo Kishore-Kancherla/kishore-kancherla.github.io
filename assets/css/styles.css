@@ -20,7 +20,7 @@ nav .btn {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50px; /* Adjust size as needed */
+    width: 40px; /* Adjust size as needed */
     height: 40px;
     padding: 0;
     border-radius: 10%; /* Makes it circular */
@@ -28,6 +28,9 @@ nav .btn {
     text-decoration: none;
     color: #fff; /* White icon color */
     background-color: #007bff; /* Background color */
+    border: none; /* Optional: remove border */
+    outline: none; /* Optional: remove outline */
+    box-sizing: border-box; /* Ensures width and height include padding */
 }
 
 nav .btn:hover {
