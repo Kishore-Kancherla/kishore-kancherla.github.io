@@ -104,7 +104,7 @@ nav .btn:hover {
 }
 
 .experience-image {
-    width: 100%; /* Sets the width to 80% of the container */
+    width: 80%; /* Sets the width to 80% of the container */
     height: auto; /* Maintains the aspect ratio */
     max-width: 100%; /* Ensures it doesn't exceed the container's width */
     border: 1px solid #ddd; /* Optional: adds a border around the image */
