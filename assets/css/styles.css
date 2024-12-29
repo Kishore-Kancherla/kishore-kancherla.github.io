@@ -104,6 +104,8 @@ nav .btn:hover {
 }
 
 .experience-image {
+    display: block; /* Required for margin auto to work */
+    margin: 0 auto; /* Horizontally centers the image */
     width: 80%; /* Sets the width to 80% of the container */
     height: auto; /* Maintains the aspect ratio */
     max-width: 100%; /* Ensures it doesn't exceed the container's width */
